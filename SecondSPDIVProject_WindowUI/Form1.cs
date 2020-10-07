@@ -25,7 +25,7 @@ namespace SecondSPDIVProject_WindowUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello SPDV 2021", "exit", MessageBoxButtons.OKCancel); ;
+            MessageBox.Show("Hello SPDV 2021", "Welcome here!", MessageBoxButtons.OKCancel); ;
         }
     }
 }
