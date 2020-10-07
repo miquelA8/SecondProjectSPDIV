@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondSPDIVProject_WindowUI", "SecondSPDIVProject_WindowUI\SecondSPDIVProject_WindowUI.csproj", "{DDCAD258-E4E1-4CB6-BAB4-9A368D9358B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCAD258-E4E1-4CB6-BAB4-9A368D9358B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCAD258-E4E1-4CB6-BAB4-9A368D9358B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCAD258-E4E1-4CB6-BAB4-9A368D9358B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCAD258-E4E1-4CB6-BAB4-9A368D9358B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803E0AA6-2E45-42C9-932F-50C86672BC94}
+	EndGlobalSection
+EndGlobal
